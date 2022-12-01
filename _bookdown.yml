@@ -4,6 +4,7 @@ repo: https://github.com/jhudsl/AnVIL_Template/
 rmd_files: ["index.Rmd",
             "01-intro.Rmd",
             "05-gene_flow_and_drift.Rmd",
+            "06-activity_introduction.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
