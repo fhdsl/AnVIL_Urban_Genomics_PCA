@@ -1,10 +1,12 @@
 AnVIL
+bioinformatics
 BIPOC
 Bloomberg
 callout
 Callout
 dropdown
 GDSCN
+github
 Gmail
 impactful
 mentorship
