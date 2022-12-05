@@ -2,6 +2,8 @@ introduction
 motivation
 target-audience
 curriculum
-population-structure-gene-flow-and-genetic-drift
+ecological-facilitation
+principal-component-analysis
+population-structure
 activity-overview
 references
