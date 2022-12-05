@@ -1,6 +1,6 @@
-# Population Structure, Gene flow, and Genetic Drift
+# Population Structure
 
-This lecture module introduces how to gene flow and genetic drift.
+This lecture module introduces population structure and how it is affected by gene flow and genetic drift.
 
 **Learning Objectives**
 
