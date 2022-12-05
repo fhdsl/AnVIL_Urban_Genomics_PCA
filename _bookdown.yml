@@ -3,6 +3,8 @@ chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Template/
 rmd_files: ["index.Rmd",
             "01-intro.Rmd",
+            "03-urbanization_facilitation.Rmd",
+            "04-PCA.Rmd",
             "05-gene_flow_and_drift.Rmd",
             "About.Rmd",
             "References.Rmd"]
