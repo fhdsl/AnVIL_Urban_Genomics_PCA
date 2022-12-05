@@ -3,4 +3,5 @@ motivation
 target-audience
 curriculum
 population-structure-gene-flow-and-genetic-drift
+activity-overview
 references
