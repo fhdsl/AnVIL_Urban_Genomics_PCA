@@ -1,9 +1,4 @@
-# (PART\*) Demo Chapters {-}
-
-
-```{r, include = FALSE}
-ottrpal::set_knitr_image_path()
-```
+# (PART\*) Teacher's Guide {-}
 
 # Introduction
 
