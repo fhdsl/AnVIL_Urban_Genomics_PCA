@@ -1,6 +1,6 @@
 ---
-title: "AnVIL Book Name"
-date: "December 05, 2022"
+title: "AnVIL Urban Genomics: Pigeon Population Structure"
+date: "December 08, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib

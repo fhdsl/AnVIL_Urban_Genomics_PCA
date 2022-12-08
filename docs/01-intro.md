@@ -1,7 +1,4 @@
-# (PART\*) Demo Chapters {-}
-
-
-
+# (PART\*) Teacher's Guide {-}
 
 # Introduction
 
