@@ -2,11 +2,14 @@ book_filename: "Course_Name"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Template/
 rmd_files: ["index.Rmd",
-            "01-intro.Rmd",
+            "01-intro_teacher_guide.Rmd",
+            "02-snps.Rmd"
             "03-urbanization_facilitation.Rmd",
             "04-PCA.Rmd",
             "05-gene_flow_and_drift.Rmd",
             "06-pigeons.Rmd",
+            "07-activity_introduction.Rmd",
+            "08-student_guide.Rmd"
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
