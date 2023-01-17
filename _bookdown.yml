@@ -9,7 +9,7 @@ rmd_files: ["index.Rmd",
             "05-gene_flow_and_drift.Rmd",
             "06-pigeons.Rmd",
             "07-activity_introduction.Rmd",
-            "08-student_guide.Rmd"
+            "08-student_guide.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes

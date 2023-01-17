@@ -1,12 +1,12 @@
-# Principal Component Analysis
+# SNPs
 
-This lecture module introduces the basic theory of principal component analysis.
+This lecture module introduces the concepts of genetic variation and SNPs.
 
 **Learning Objectives**
 
-1. Learn what principal component analysis is and why it is useful in bioinformatics.
-1. Understand how PCs are calculated
+1. Learn what SNPs are 
+1. Understand why whole genome SNPs are useful in genetics
 
 
 
-You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1HsXfigaMm7a35V5FM3zOWFy8inZQsp29QA--UkEVKTs/edit#slide=id.p)
+You can view and download the Google Slides here
