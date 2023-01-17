@@ -1,3 +1,5 @@
+# (PART\*) Background Lectures {-}
+
 # SNPs
 
 This lecture module introduces the concepts of genetic variation and SNPs.
