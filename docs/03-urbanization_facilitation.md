@@ -1,5 +1,3 @@
-# (PART\*) Background Lectures {-}
-
 # Ecological Facilitation
 
 This lecture module introduces ecological facilitation and what it means for the urban environment.
