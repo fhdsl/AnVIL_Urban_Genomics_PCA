@@ -19,6 +19,8 @@ github
 Gmail
 https
 impactful
+livia
+Lowther
 mec
 megacity
 mentorship
@@ -35,6 +37,7 @@ PMID
 preprint
 reproducibility
 Rivkin
+rocpig
 RStudio
 underserved
 Verrelli
