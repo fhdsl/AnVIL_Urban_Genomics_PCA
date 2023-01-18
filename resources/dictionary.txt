@@ -39,6 +39,7 @@ reproducibility
 Rivkin
 rocpig
 RStudio
+SNPs
 underserved
 Verrelli
 Workspaces
