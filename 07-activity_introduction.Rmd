@@ -2,13 +2,13 @@ This activity is based on work published by Drs. Elizabeth Carlen and Jason Muns
 
 You can read the full study [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/eva.12972).
 
-# Introduction
+## Introduction
 
 This is a brief video introduction to the activity.
 
 You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1meLiZzX1TSPvSOMwOSXUX9FyM82fZk1iqGpF3j6PsNM/edit#slide=id.p)
 
-# Before you begin
+## Before you begin
 
 You will need to create a Google account in order to use AnVIL.
 
