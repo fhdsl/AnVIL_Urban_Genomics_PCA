@@ -55,6 +55,11 @@ Please check out our full collection of AnVIL and related resources below!
    <td style="text-align:left;"> anvil, r-programming </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> [AnVIL SRA Data](https://hutchdatascience.org/AnVIL_SRA_Data/) ([github](https://github.com/fhdsl/AnVIL_SRA_Data)) </td>
+   <td style="text-align:left;"> Pull Sequence Read Archive (SRA) data into AnVIL </td>
+   <td style="text-align:left;"> anvil </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> [AnVIL: Getting Started](https://jhudatascience.org/AnVIL_Book_Getting_Started) ([github](https://github.com/jhudsl/AnVIL_Book_Getting_Started)) </td>
    <td style="text-align:left;"> A guide for getting started using AnVIL </td>
    <td style="text-align:left;"> anvil, cloud-computing </td>
