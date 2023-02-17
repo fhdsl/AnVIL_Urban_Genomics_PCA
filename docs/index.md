@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Urban Genomics: Pigeon Population Structure"
-date: "January 18, 2023"
+date: "February 17, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -17,13 +17,14 @@ This book is part of a series of books for the Genomic Data Science Analysis, Vi
 
 ## Skills Level {-} 
 
-::: {.notice}
-_Genetics_
-<!-- **Novice**: no genetics knowledge needed -->
 
-_Programming skills_
-<!-- **Novice**: no programming experience needed -->
-:::
+<div class = "notice">
+_Genetics_  
+**Beginner**: minimal genetics knowledge needed
+ 
+_Programming skills_  
+**Beginner**: minimal programming experience needed
+</div>
 
 # Learning Objectives {-}
 

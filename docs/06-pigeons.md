@@ -10,4 +10,4 @@ This lecture module gives a brief introduction to the rock pigeon.
 
 
 
-You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1N4__12RpdmqdIbsiC0q0WqACY3i6BpZ6iw5kMKuU9Uw/edit#slide=id.p)
+You can view and download the Google Slides here
