@@ -1,5 +1,7 @@
 # Activity Overview
 
-This is a brief introduction to the activity.
+This activity is based on Carlen and Munshi-South’s 2020 paper “Widespread genetic connectivity of feral pigeons across the Northeastern megacity”. The idea and data are used with the permission of Dr. Elizabeth Carlen.
+
+Students will learn how to do a principal component analysis (or PCA) using real genetic data from feral pigeons. 
 
 You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1meLiZzX1TSPvSOMwOSXUX9FyM82fZk1iqGpF3j6PsNM/edit#slide=id.p)
