@@ -53,6 +53,7 @@ Rivkin
 rocpig
 RStudio
 SNPs
+StatQuest
 underserved
 Verrelli
 Workspaces
