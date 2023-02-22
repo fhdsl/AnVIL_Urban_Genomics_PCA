@@ -1,9 +1,11 @@
 aam
+abiotic
 AnVIL
 Appl
 Billerman
 BiocManager
 bioinformatics
+biotic
 BIPOC
 Bloomberg
 callout
@@ -54,6 +56,7 @@ rocpig
 RStudio
 SNPs
 StatQuest
+StatQuest's
 underserved
 Verrelli
 Workspaces
