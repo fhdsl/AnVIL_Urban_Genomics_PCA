@@ -4,6 +4,8 @@
 
 This lecture module discusses what population genetics can tell us about the urban facilitation and urban fragmentation models of urbanization.
 
+
+
 **Learning Objectives**
 
 1. Learn what urbanization is and how it affects the abiotic and biotic environments.
