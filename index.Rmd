@@ -26,15 +26,19 @@ _Programming skills_
 **Beginner**: minimal programming experience needed
 </div>
 
-# Learning Objectives {-}
+## Learning Objectives {-}
 
-<!-- Learning objectives for this activity come from the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/): -->
+This activity addresses the followng Core Concepts and Competencies as stated in the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/):
 
-<!-- - Objective 1 -->
-<!-- - Objective 2 -->
-<!-- - Objective 3 -->
+1. Core Competency: Critique large data sets and use bioinformatics to assess genetics data.
+1. Core Competency: Generate and interpret graphs displaying experimental results.
+1. Evolution and Population Genetics: Explain how natural selection and genetic drift can affect the elimination, maintenance or increase in frequency of various types of alleles (e.g. dominant, recessive, deleterious, beneficial) in a population.
 
-<!-- Please also see the Bioinformatics core competencies for undergraduate life sciences education from NIBLSE: https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0196878.t002 -->
+
+This activity also addresses the following core competency from the Bioinformatics core competencies for undergraduate life sciences education from [NIBLSE] (https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0196878.t002):
+
+1. Use bioinformatics tools to examine complex biological problems in evolution, information flow, and other important areas of biology.
+1. Use command-line bioinformatics tools and write simple computer scripts.
 
 ## AnVIL Collection {-}
 
