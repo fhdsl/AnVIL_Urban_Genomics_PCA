@@ -1,3 +1,5 @@
+# (PART\*) Student Guide {-}
+
 # Activity Overview
 
 This activity is based on work published by Drs. Elizabeth Carlen and Jason Munshi-South in 2021, "Widespread genetic connectivity of feral pigeons across the Northeastern megacity". In this module, you will work with SNP data from a subsample of 50 feral pigeons (collected in 6 different Northeastern US cities) that were captured and sampled in Carlen and Munshi-South's study. You will calculate PCA and create plots to visualize the population structure among these pigeons using the R programming language.
@@ -23,11 +25,11 @@ cow::borrow_chapter(
 
 You will also need to clone the AnVIL workspace for this activity.
 
-# RStudio
+## RStudio
 
 This activity uses the RStudio environment on AnVIL.
 
-## Video overview on using RStudio
+### Video overview on using RStudio
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -36,7 +38,7 @@ cow::borrow_chapter(
 )
 ```
 
-## Launching RStudio
+### Launching RStudio
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -45,7 +47,7 @@ cow::borrow_chapter(
 )
 ```
 
-## Touring RStudio
+### Touring RStudio
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -54,7 +56,7 @@ cow::borrow_chapter(
 )
 ```
 
-## Pausing RStudio
+### Pausing RStudio
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -64,7 +66,7 @@ cow::borrow_chapter(
 ```
 
 
-## Deleting RStudio
+### Deleting RStudio
 
 
 ```{r, echo = FALSE, results='asis'}
