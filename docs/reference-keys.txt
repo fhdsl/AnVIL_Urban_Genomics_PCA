@@ -1,4 +1,16 @@
 population-genetics-in-the-urban-environment
 principal-component-analysis
 rock-pigeons
+activity-overview
+before-you-begin
+accessing-anvil
+cloning-the-workspace
+using-rstudio
+video-overview-on-using-rstudio
+objectives
+slides
+launching-rstudio
+touring-rstudio
+pausing-rstudio
+deleting-rstudio
 references

@@ -2,17 +2,20 @@
 
 # Activity Overview
 
-This activity is based on work published by Drs. Elizabeth Carlen and Jason Munshi-South in 2021, "Widespread genetic connectivity of feral pigeons across the Northeastern megacity". In this module, you will work with SNP data from a subsample of 50 feral pigeons (collected in 5 different Northeastern US cities) that were captured and sampled in Carlen and Munshi-South's study. You will calculate PCA and create plots to visualize the population structure among these pigeons using the R programming language.
+This activity is based on work published by Drs. Elizabeth Carlen and Jason Munshi-South in 2021, "Widespread genetic connectivity of feral pigeons across the Northeastern megacity". In this module, you will work with SNP data from a subsample of 50 feral pigeons (collected in 6 different Northeastern US cities) that were captured and sampled in Carlen and Munshi-South's study. You will calculate PCA and create plots to visualize the population structure among these pigeons using the R programming language.
 
 You can read the full study [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/eva.12972).
 
-# Introduction
 
 This is a brief video introduction to the activity.
 
 You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1meLiZzX1TSPvSOMwOSXUX9FyM82fZk1iqGpF3j6PsNM/edit#slide=id.p)
 
 # Before you begin
+
+Before diving into the activity, you'll need to do a couple of things first, including creating a Google account to use AnVIL and cloning the activity workspace.
+
+## Accessing AnVIL
 
 You will need to create a Google account in order to use AnVIL.
 
@@ -21,12 +24,15 @@ If you do not already have a Google account that you would like to use for acces
 
 If you would like to create a Google account that is associated with your non-Gmail, institutional email address, follow [these instructions](https://support.terra.bio/hc/en-us/articles/360029186611).
 
+## Cloning the workspace
 
-# RStudio
+You will also need to clone the AnVIL workspace for this activity.
+
+## Using RStudio
 
 This activity uses the RStudio environment on AnVIL.
 
-## Video overview on using RStudio
+### Video overview on using RStudio
 
 
 Here is a video tutorial that describes the basics of using RStudio on AnVIL.
@@ -43,7 +49,7 @@ Here is a video tutorial that describes the basics of using RStudio on AnVIL.
 
 The slides for this tutorial are are located [here](https://docs.google.com/presentation/d/1eypYLLqD11-NwHLs4adGpcuSB07dYEJfAaALSMvgzqw).
 
-## Launching RStudio
+### Launching RStudio
 
 
 :::{.warning}
@@ -110,7 +116,7 @@ Note that, in order to use RStudio, you must have access to a Terra Workspace wi
 
     <img src="07-activity_introduction_files/figure-html//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_103.png" title="Screenshot of the RStudio environment interface." alt="Screenshot of the RStudio environment interface." width="100%" />
 
-## Touring RStudio
+### Touring RStudio
 
 
 Next, we will be using RStudio and the package `Glimma` to create interactive plots. See [this vignette](https://bioconductor.org/packages/release/bioc/vignettes/Glimma/inst/doc/limma_edger.html) for more information.
@@ -167,7 +173,7 @@ Next, we will be using RStudio and the package `Glimma` to create interactive pl
 
     <img src="07-activity_introduction_files/figure-html//1BLTCaogA04bbeSD1tR1Wt-mVceQA6FHXa8FmFzIARrg_g1204ed6db6a_0_8.png" title="Screenshot of the RStudio interface. The popup to download the selected file has been highlighted," alt="Screenshot of the RStudio interface. The popup to download the selected file has been highlighted," width="480" />
 
-## Pausing RStudio
+### Pausing RStudio
 
 
 1. The upper right corner reminds you that you are accruing cloud computing costs.
@@ -178,7 +184,9 @@ Next, we will be using RStudio and the package `Glimma` to create interactive pl
 
     <img src="07-activity_introduction_files/figure-html//1BLTCaogA04bbeSD1tR1Wt-mVceQA6FHXa8FmFzIARrg_g11f12bc99af_0_91.png" title="Screenshot of the RStudio interface. The stop icon on the top right which stops the cloud environment is highlighted." alt="Screenshot of the RStudio interface. The stop icon on the top right which stops the cloud environment is highlighted." width="480" />
 
-## Deleting RStudio
+
+### Deleting RStudio
+
 
 
 1. Stopping your cloud environment only pauses your work. When you are ready to delete the cloud environment, click on the gear icon in the upper right corner to “Update cloud environment”.
