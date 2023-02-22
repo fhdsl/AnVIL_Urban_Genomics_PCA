@@ -6,6 +6,7 @@ rmd_files: ["index.Rmd",
             "03-pop_gen_urban_models.Rmd",
             "05-PCA.Rmd",
             "06-pigeons.Rmd",
+            "07-activity_introduction.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
