@@ -6,7 +6,6 @@ This activity is based on work published by Drs. Elizabeth Carlen and Jason Muns
 
 You can read the full study [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/eva.12972).
 
-## Introduction
 
 This is a brief video introduction to the activity.
 
@@ -25,7 +24,7 @@ cow::borrow_chapter(
 
 You will also need to clone the AnVIL workspace for this activity.
 
-## RStudio
+## Using RStudio
 
 This activity uses the RStudio environment on AnVIL.
 
