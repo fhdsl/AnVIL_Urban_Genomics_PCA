@@ -1,7 +1,5 @@
 # Instructor Guide {-}
 
-## Suggested Activity Context {-}
-
 **Course Audience**  
 
 - Undergraduate biology majors
