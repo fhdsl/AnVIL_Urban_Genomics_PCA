@@ -55,6 +55,7 @@ Rivkin
 rocpig
 RStudio
 SNPs
+SNVs
 StatQuest
 StatQuest's
 underserved

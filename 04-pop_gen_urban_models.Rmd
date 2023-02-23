@@ -1,5 +1,3 @@
-# (PART\*) Background Lectures {-}
-
 # Population Genetics in the Urban Environment
 
 This lecture module discusses what population genetics can tell us about the urban facilitation and urban fragmentation models of urbanization.
