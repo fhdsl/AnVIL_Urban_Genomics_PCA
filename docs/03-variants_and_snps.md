@@ -1,0 +1,15 @@
+# (PART\*) Background Lectures {-}
+
+# Variants and SNPs
+
+This lecture module discusses what DNA variants are and how they can be stored as data.
+
+
+**Learning Objectives**
+
+1. Learn what genomics and genetics are.
+1. Learn what variants, SNVs, and SNPs are.
+1. Learn how variants can impact an organism's phenotype.
+1. Learn how DNA variants are stored in datafiles.
+
+You can view and download the Google Slides [here](https://docs.google.com/presentation/d/1d3ZpAOpzNR1QxeUwZrrinGQl9e8vOokGWZmzzexQ6sM/edit?usp=sharing)

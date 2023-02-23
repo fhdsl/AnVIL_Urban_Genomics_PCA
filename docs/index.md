@@ -1,6 +1,6 @@
 ---
-title: "AnVIL Urban Genomics: Pigeon Population Structure"
-date: "February 22, 2023"
+title: "AnVIL Urban Genomics: Identifying population structure among feral pigeon populations"
+date: "February 23, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -39,6 +39,37 @@ This activity also addresses the following core competency from the Bioinformati
 
 1. Use bioinformatics tools to examine complex biological problems in evolution, information flow, and other important areas of biology.
 1. Use command-line bioinformatics tools and write simple computer scripts.
+
+
+## Course details {-}
+
+**Course Audience**  
+
+- Undergraduate biology majors
+- Graduate students with less exposure to bioinformatics
+
+**Course Prerequisites**  
+
+- Layman understanding of genetics (understanding of DNA, genes, trait inheritance)
+- Some previous exposure to graphing
+
+**Class Type**  
+
+- Lab
+- Computer-based
+
+**Class Size**  
+
+- 1-50
+
+**Lesson Duration**  
+
+Coming soon!
+
+**Assessment Type**  
+
+- Short answer questions at each lab stage
+
 
 ## AnVIL Collection {-}
 
