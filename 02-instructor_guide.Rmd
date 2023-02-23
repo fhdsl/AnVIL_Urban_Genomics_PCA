@@ -1,32 +1,5 @@
 # Instructor Guide {-}
 
-**Course Audience**  
-
-- Undergraduate biology majors
-- Graduate students with less exposure to bioinformatics
-
-**Course Prerequisites**  
-
-- Layman understanding of genetics (understanding of DNA, genes, trait inheritance)
-- Some previous exposure to graphing
-
-**Class Type**  
-
-- Lab
-- Computer-based
-
-**Class Size**  
-
-- 1-50
-
-**Lesson Duration**  
-
-Coming soon!
-
-**Assessment Type**  
-
-- Short answer questions at each lab stage
-
 ## Lesson Plan  {-}
 
 Coming soon!

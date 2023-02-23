@@ -3,7 +3,8 @@ chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Template/
 rmd_files: ["index.Rmd",
             "02-instructor_guide.Rmd",
-            "03-pop_gen_urban_models.Rmd",
+            "03-variants_and_snps.Rmd",
+            "04-pop_gen_urban_models.Rmd",
             "05-PCA.Rmd",
             "06-pigeons.Rmd",
             "07-activity_introduction.Rmd",
