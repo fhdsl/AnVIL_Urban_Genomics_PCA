@@ -27,7 +27,7 @@ This checklist can serve as a reminder of the overall suggested steps to run an 
 
 - Create a Workspace for your class (optional)
 - Notify Terra of your course dates and times
-- Direct students to the Workspace (either newly created or premade)
+- Direct students to the Workspace
 
 **Permissions**
 
