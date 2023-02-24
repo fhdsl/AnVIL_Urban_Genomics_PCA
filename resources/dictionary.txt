@@ -8,6 +8,7 @@ bioinformatics
 biotic
 BIPOC
 Bloomberg
+bmr
 callout
 Callout
 Carlen
@@ -27,11 +28,13 @@ github
 Glimma
 glimmaMDS
 Gmail
+GSuite
 https
 impactful
 limma
 livia
 Lowther
+jhu
 mec
 megacity
 mentorship
@@ -42,6 +45,8 @@ Munshi
 NA
 NCI
 NHGRI
+NHGRI's
+NIBSLE
 Onboarding
 OTTR
 ottrpal
@@ -56,6 +61,7 @@ rocpig
 RStudio
 SNPs
 SNVs
+STRIDES
 StatQuest
 StatQuest's
 underserved
