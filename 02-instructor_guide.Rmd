@@ -10,6 +10,48 @@ This R-based activity can be run on a different platform, such as your own perso
 
 More Coming soon!
 
+## Checklist for Running the Activity on AnVIL {-}
+
+### Before the class begins
+
+This checklist can serve as a reminder of the overall suggested steps to run an activity on AnVIL. You might find yourself changing these steps slightly as you become more familiar with AnVIL.
+
+**Billing**
+
+- Obtain funding through the [STRIDES](https://datascience.nih.gov/strides) program (optional)
+- Request students make AnVIL IDs (Google IDs) 
+- Collect AnVIL IDs (Google IDs) from students
+- Create Google Billing Account for your class
+
+**Resources**
+
+- Create a Workspace for your class (optional)
+- Notify Terra of your course dates and times
+- Direct students to the Workspace (either newly created or premade)
+
+**Permissions**
+
+- Set up Groups to manage permissions
+
+| AnVIL Group         | Class Workspace | Terra Billing Projects*|
+|:--------------------|:----------------|:-----------------------|
+| Instructor          | Owner           | Owner                  |
+| Teaching assistants | Writer          | Owner                  |
+| Students            | Reader          | User                   |
+
+
+### After the class ends
+
+**Resources**
+
+- Remind students to download any files they might need
+- Tell students to delete their environments and persistent disks
+
+**Billing**
+
+- Deactivate billing project
+
+
 ## Setting up Billing on AnVIL {-}
 
 The following will help you set up billing for your class. You will:  
@@ -663,46 +705,6 @@ You have now correctly set up your class permissions!
 Contacting Terra ahead of your class time helps the Terra team avoid any major disruptions to your class. Contact Terra by [submitting a request](https://support.terra.bio/hc/en-us/requests/new) for a hold on scheduled maintenance and downtime. It’s also a good idea to ask about major changes planned for the time prior to your class.
 
 
-## Checklist for Running the Activity on AnVIL {-}
-
-### Before the class begins
-
-This checklist can serve as a reminder of the overall suggested steps to run an activity on AnVIL. You might find yourself changing these steps slightly as you become more familiar with AnVIL.
-
-**Billing**
-
-- Obtain funding through the [STRIDES](https://datascience.nih.gov/strides) program (optional)
-- Request students make AnVIL IDs (Google IDs) 
-- Collect AnVIL IDs (Google IDs) from students
-- Create Google Billing Account for your class
-
-**Resources**
-
-- Create a Workspace for your class (optional)
-- Notify Terra of your course dates and times
-- Direct students to the Workspace (either newly created or premade)
-
-**Permissions**
-
-- Set up Groups to manage permissions
-
-| AnVIL Group         | Class Workspace | Terra Billing Projects*|
-|:--------------------|:----------------|:-----------------------|
-| Instructor          | Owner           | Owner                  |
-| Teaching assistants | Writer          | Owner                  |
-| Students            | Reader          | User                   |
-
-
-### After the class ends
-
-**Resources**
-
-- Remind students to download any files they might need
-- Tell students to delete their environments and persistent disks
-
-**Billing**
-
-- Deactivate billing project
 ## Getting Credit for Professional Development {-}
 
 We are happy to provide a letter to your supervisor, department head, or dean to indicate you've worked through this content and intend to use it in your class.
