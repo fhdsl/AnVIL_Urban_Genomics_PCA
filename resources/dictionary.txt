@@ -42,6 +42,7 @@ Munshi
 NA
 NCI
 NHGRI
+NHGRI's
 Onboarding
 OTTR
 ottrpal
@@ -56,6 +57,7 @@ rocpig
 RStudio
 SNPs
 SNVs
+STRIDES
 StatQuest
 StatQuest's
 underserved
