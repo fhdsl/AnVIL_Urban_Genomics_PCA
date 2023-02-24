@@ -10,6 +10,33 @@ This R-based activity can be run on a different platform, such as your own perso
 
 More Coming soon!
 
+## Setting up Billing on AnVIL {-}
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "04_Billing.Rmd",
+  repo_name = "jhudsl/AnVIL_Book_Instructor_Guide"
+)
+```
+
+## Setting up the Class Activity {-}
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "05_Class_setup.Rmd",
+  repo_name = "jhudsl/AnVIL_Book_Instructor_Guide"
+)
+```
+
+## Checklist for Running the Activity on AnVIL {-}
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "06_Running_the_class.Rmd",
+  repo_name = "jhudsl/AnVIL_Book_Instructor_Guide"
+)
+```
+
 ## Getting Credit for Professional Development {-}
 
 We are happy to provide a letter to your supervisor, department head, or dean to indicate you've worked through this content and intend to use it in your class.
