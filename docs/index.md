@@ -28,7 +28,7 @@ _Programming skills_
 
 ## Learning Objectives {-}
 
-This activity addresses the followng Core Concepts and Competencies as stated in the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/):
+This activity addresses the following Core Concepts and Competencies as stated in the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/):
 
 1. Core Competency: Critique large data sets and use bioinformatics to assess genetics data.
 1. Core Competency: Generate and interpret graphs displaying experimental results.

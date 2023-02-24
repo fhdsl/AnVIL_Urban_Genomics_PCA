@@ -1,18 +1,18 @@
-# Instructor Guide {-}
+# (PART\*) Instructor Guide {-}
 
-## Lesson Plan  {-}
+# Lesson Plan  
 
 Coming soon!
 
-## Notes for Instructors {-}
+# Notes for Instructors 
 
 This R-based activity can be run on a different platform, such as your own personal installation of [R](https://www.r-project.org/) or [Posit](https://posit.co/)(formerly called RStudio), depending on your needs. 
 
 More Coming soon!
 
-## Checklist for Running the Activity on AnVIL {-}
+# Checklist for Running the Activity on AnVIL
 
-### Before the class begins
+## Before the class begins {-}
 
 This checklist can serve as a reminder of the overall suggested steps to run an activity on AnVIL. You might find yourself changing these steps slightly as you become more familiar with AnVIL.
 
@@ -27,7 +27,7 @@ This checklist can serve as a reminder of the overall suggested steps to run an 
 
 - Create a Workspace for your class (optional)
 - Notify Terra of your course dates and times
-- Direct students to the Workspace (either newly created or premade)
+- Direct students to the Workspace
 
 **Permissions**
 
@@ -40,7 +40,7 @@ This checklist can serve as a reminder of the overall suggested steps to run an 
 | Students            | Reader          | User                   |
 
 
-### After the class ends
+## After the class ends {-}
 
 **Resources**
 
@@ -52,7 +52,7 @@ This checklist can serve as a reminder of the overall suggested steps to run an 
 - Deactivate billing project
 
 
-## Setting up Billing on AnVIL {-}
+# Setting up Billing on AnVIL
 
 The following will help you set up billing for your class. You will:  
 * Set up a billing project for tracking costs
@@ -61,7 +61,7 @@ The following will help you set up billing for your class. You will:
 * Estimate costs for your class
 * Learn about how to track costs during your class
 
-### Creating a billing project {#billing-project}
+## Creating a billing project {#billing-project}
 
 First, create the Billing Project. Billing Project names must be globally unique and cannot exceed 30 characters. We suggest the name of the Billing Project should be a combination of institution-class- (e.g., "jhu-bmr2021-bill-1"). To create a Billing Project:
 
@@ -85,7 +85,7 @@ First, create the Billing Project. Billing Project names must be globally unique
     
 You now have a unique **Billing Project**.
 
-### Adding Instructors as “Owner”
+## Adding Instructors as “Owner”
 
 Next, you want to give instructors permission to use the Billing Project to compute. To set instructor permissions:
 
@@ -122,7 +122,7 @@ Next, you want to give instructors permission to use the Billing Project to comp
 This step makes it so that co-instructors can edit permissions and administer the Billing Project as needed. While this means you and co-instructors can compute using the student Billing Project, this makes spending difficult to track. Instructors should always use the **instructor Workspace** to compute. This makes it much easier to track costs associated with instructors versus students.
 :::
 
-### Adding Students as “User”
+## Adding Students as “User”
 
 Next, you will add your student Group to the Billing Project so that they can compute. To set student permissions:
 
@@ -154,7 +154,7 @@ Next, you will add your student Group to the Billing Project so that they can co
 
     <img src="02-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_327.png" title="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked. The &quot;ADD USER&quot; button is highlighted." alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked. The &quot;ADD USER&quot; button is highlighted." width="480" />
 
-### Understanding the various billing costs
+## Understanding the various billing costs
 
 Costs in AnVIL fall into one of three categories: compute costs, storage costs, and network usage (egress) costs. **Compute costs** are those that students accrue when actively using an AnVIL Workspace. Students can clone a Workspace for no cost, but they will begin to accrue costs as soon as they set up a cloud environment. Compute costs are based on how many CPUs you need, as well as how much memory and storage space you choose. You can also pause the Workspace and pay a lower cost per hour than if you were to keep the Workspace running. Current prices can be found [here](https://cloud.google.com/compute/all-pricing#top_of_page).
 
@@ -162,13 +162,13 @@ Costs in AnVIL fall into one of three categories: compute costs, storage costs, 
 
 Finally, **network usage** costs are those involved with transferring data between networks or downloading data from the cloud to your local computer. Current prices can be found [here](https://cloud.google.com/storage/pricing#network-egress).
 
-### Estimating costs before the class begins
+## Estimating costs before the class begins
 
 AnVIL has a free [AnVIL_Cost_Estimator](https://docs.google.com/spreadsheets/d/1GUN93HDRqDbZ0uktaZjoP-y8Ril1T_VIJnQrjRD6tV4) that allows you estimate compute, storage, and network usage costs for your class. This is a Google sheet that you can tailor to fit your needs. Before you use it, make sure the prices are up to date by following the links at the bottom of the sheet. 
 
 If you need to create a Budget Justification for your class, you can also use the free [AnVIL_Budget_Justification](https://docs.google.com/document/d/145JFLn2hviLmaYF-mO06gbCkG0i4HRaWvkUBKORo85Y/edit) template. 
 
-### How much does a class cost?
+## How much does a class cost?
 
 One of the advantages of billing projects in Terra is that you can keep track of the costs during real time. You can see how much each Workspace is costing while your course is happening, so there are no unexpected surprises at the end!
 
@@ -192,13 +192,13 @@ This takes you to a report of the detailed charges accrued by the billing accoun
 <img src="resources/images/04_billing/billing_3.png" title="Locating dropdown menu" alt="Locating dropdown menu" style="display: block; margin: auto;" />
 
 
-## Setting up the Class Activity {-}
+# Setting up the Class Activity
 
-### Overview of Class Setup
+## Overview of Class Setup
 
 This section will show you how to organize your class to make it easier to administer access to your content. You will need to have a list of who will be taking your class, such as a course roster or sign-up list, as well as a list of additional instructors or teaching assistants. You can make changes later, so the list of students need not be final.
 
-### Collect Google IDs
+## Collect Google IDs
 
 AnVIL IDs are based on [Google accounts](account-setup.html#google-account).
 
@@ -206,7 +206,7 @@ Students -- Contact students/participants to get their AnVIL IDs. These should b
 
 Co-instructors -- If you will be working with other instructors, such as co-instructors or teaching assistants, you will need to collect their IDs as well.
 
-### Set Up Groups
+## Set Up Groups
 Reminder:
 
 - Google **Billing Accounts** are managed on Google Cloud Platform and are used for organizing *funding sources* (e.g. credit cards, cloud credits).
@@ -218,7 +218,7 @@ We suggest creating two different Terra Billing Projects under the appropriate B
 
 Groups enable you to share your class Workspace and manage permissions for many people at once. We recommend starting with one Group for instructors and one Group for students.
 
-#### Instructor Group {#instructor-group}
+### Instructor Group {#instructor-group} {-}
 
 Create an informative, unique Group name for any co-instructors and teaching assistants. We suggest a combination of institution-class-role (e.g., “jhu-bmr2021-instructors”). Only letters, numbers, underscores, and dashes are allowed in Group names. To create a Group for instructors:
 
@@ -236,7 +236,7 @@ Create an informative, unique Group name for any co-instructors and teaching ass
 
 You now have a unique **instructor Group**.
 
-##### Add Instructors as "Admin" (Instructor Group)
+#### Add Instructors as "Admin" (Instructor Group) {-}
 
 Now that your instructor Group has been created, you should add any additional instructors. You should also ensure that they have the correct permissions. 
 
@@ -264,7 +264,7 @@ Make sure the newly added instructor displays “Admin” under “Roles” besi
 
 <img src="02-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_78.png" title="Screenshot of the Terra Group for the instructor Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role &quot;Admin&quot;, which is highlighted." alt="Screenshot of the Terra Group for the instructor Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role &quot;Admin&quot;, which is highlighted." width="480" />
 
-#### Student Group {#student-group}
+### Student Group {#student-group} {-}
 
 Next, you will create a Group for your students. Create an informative, unique Group name. We suggest a combination of institution-class-role (e.g., “jhu-bmr2021-students”). Only letters, numbers, underscores, and dashes are allowed in Group names. To create a Group for students:
 
@@ -282,7 +282,7 @@ Next, you will create a Group for your students. Create an informative, unique G
 
 You now have a unique **student Group**.
 
-##### Add Instructors as "Admin" (Student Group)
+#### Add Instructors as "Admin" (Student Group) {-}
 
 The next steps ensure any additional co-instructors and teaching assistants are able to administer the student Group in case you are unavailable. Follow the steps below to add each co-instructor in the student Group:
 
@@ -310,7 +310,7 @@ Make sure the newly added instructor displays “Admin” under “Roles” besi
 
 <img src="02-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_87.png" title="Screenshot of the Terra Group for the student Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role &quot;Admin&quot;, which is highlighted." alt="Screenshot of the Terra Group for the student Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role &quot;Admin&quot;, which is highlighted." width="480" />
 
-##### Add Students as "Member"
+#### Add Students as "Member" {-}
 
 Follow the steps below to add individual students to the student Group:
 
@@ -336,19 +336,19 @@ Make sure the newly added student displays “Member” under “Roles” beside
 
 Your instructor and student Groups are now set up.
 
-#### Group Email Lists
+### Group Email Lists {-}
 
 Note that your newly created Groups have Group emails associated with them. Take note of these Group emails. You will use them for granting access to your class Billing Projects and Workspaces in the next steps.
 
 <img src="02-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_96.png" title="Screenshot of the Terra Group page. Emails associated with newly formed Groups have been highlighted." alt="Screenshot of the Terra Group page. Emails associated with newly formed Groups have been highlighted." width="480" />
 
-### Set Up Billing Projects
+## Set Up Billing Projects
 
 Billing Projects in Terra help organize your compute costs. Like Groups, we suggest creating two different billing projects under the appropriate Billing Account that you created on `cloud.google.com`: one for students and one for co-instructors.
 
 Billing Project names must be globally unique and cannot exceed 30 characters.
 
-#### Instructor Billing Project {#instructor-billing-project}
+### Instructor Billing Project {#instructor-billing-project} {-}
 
 First, create the Billing Project for instructors. We suggest the name of the Billing Project should be a combination of institution-class-role (e.g., "jhu-bmr2021-instructors-bill-1"). To create a Billing Project for instructors:
 
@@ -372,7 +372,7 @@ First, create the Billing Project for instructors. We suggest the name of the Bi
     
 You now have a unique **instructor Billing Project**.
 
-##### Add Instructors as “Owner” (Instructor Project)
+#### Add Instructors as “Owner” (Instructor Project) {-}
 
 Next, you want to give instructors permission to use the Billing Project to compute. To set instructor permissions:
 
@@ -406,7 +406,7 @@ Next, you want to give instructors permission to use the Billing Project to comp
 
 Your **instructor Billing Project** is now set up.
 
-#### Student Billing Project {#student-billing-project}
+### Student Billing Project {#student-billing-project} {-}
 
 Next, create a student Billing Project. Again, we suggest a combination of institution-class-role (e.g., “jhu-bmr2021-students-bill-1”). To create a Billing Project for students:
 
@@ -430,7 +430,7 @@ Next, create a student Billing Project. Again, we suggest a combination of insti
 
 You now have a unique **student Billing Project**.
    
-##### Add Instructors as “Owner” (Student Project)
+#### Add Instructors as “Owner” (Student Project) {-}
 
 You want to ensure any additional co-instructors and teaching assistants are able to administer the student Billing Project in case you are unavailable. To set instructor permissions:
 
@@ -466,7 +466,7 @@ You want to ensure any additional co-instructors and teaching assistants are abl
 This step makes it so that co-instructors can edit permissions and administer the student Billing Project as needed. While this means you and co-instructors can compute using the student Billing Project, this makes spending difficult to track. Instructors should always use the **instructor Billing Project** to compute. This makes it much easier to track costs associated with instructors versus students.
 :::
 
-##### Add Students as “User”
+#### Add Students as “User” {-}
 
 Next, you will add your student Group to the student Billing Project so that they can compute. To set student permissions:
 
@@ -500,11 +500,11 @@ Next, you will add your student Group to the student Billing Project so that the
 
 Your **student Billing Project** is now set up.
 
-### Set Permissions - Workspace
+## Set Permissions on the Workspace
 
 Finally, you will want to set up permissions for co-instructors and students to see the class Workspace you created with the development Billing Project in [Developing Content](developing-content.html). AnVIL users can take on the "Owner", "Writer", or "Reader" role for a Workspace.
 
-#### Add Instructors as “Owner”
+### Add Instructors as “Owner” {-}
 
 You should add your co-instructors and teaching assistants as “Owners” to the class Workspace. This is useful if they need to edit the course content or share the space with students on your behalf. To share and change permissions:
 
@@ -532,7 +532,7 @@ You should add your co-instructors and teaching assistants as “Owners” to th
 This step makes it so that co-instructors can edit the original content of the Workspace as needed. While this means you and co-instructors can compute using the development Billing Project, this makes spending difficult to track. Instructors should instead clone the Workspace using the **instructor Billing Project**. This makes it much easier to track costs associated with this iteration of your class versus further iterations (e.g., the following semester or year).
 :::
 
-#### Add Students as “Reader”
+### Add Students as “Reader” {-}
 
 Next, add your students as “Readers” to the class Workspace. This means they will be able to view and clone the Workspace, but not make edits or perform computations. To share the Workspace:
 
@@ -556,11 +556,11 @@ Next, add your students as “Readers” to the class Workspace. This means they
 
 You have now correctly set up your class permissions!
 
-### Notify Terra
+## Notify Terra
 
 Contacting Terra ahead of your class time helps the Terra team avoid any major disruptions to your class. Contact Terra by [submitting a request](https://support.terra.bio/hc/en-us/requests/new) for a hold on scheduled maintenance and downtime. It’s also a good idea to ask about major changes planned for the time prior to your class.
 
 
-## Getting Credit for Professional Development {-}
+# Getting Credit for Professional Development
 
 We are happy to provide a letter to your supervisor, department head, or dean to indicate you've worked through this content and intend to use it in your class.
