@@ -2,7 +2,11 @@
 
 # Activity Overview
 
-This activity is based on work published by Drs. Elizabeth Carlen and Jason Munshi-South in 2021, "Widespread genetic connectivity of feral pigeons across the Northeastern megacity". In this module, you will work with SNP data from a subsample of 50 feral pigeons (collected in 6 different Northeastern US cities) that were captured and sampled in Carlen and Munshi-South's study. You will calculate PCA and create plots to visualize the population structure among these pigeons using the R programming language.
+This activity is based on work published by Drs. Elizabeth Carlen and Jason Munshi-South in 2021, "Widespread genetic connectivity of feral pigeons across the Northeastern megacity".
+
+<img src="resources/images/carlen_header.png" title="Image of the title of the Carlen and Munshi-South paper on feral pigeon genetics" alt="Image of the title of the Carlen and Munshi-South paper on feral pigeon genetics" style="display: block; margin: auto;" />
+
+In this module, you will work with SNP data from a subsample of 50 feral pigeons (collected in 6 different Northeastern US cities) that were captured and sampled in Carlen and Munshi-South's study. You will calculate PCA and create plots to visualize the population structure among these pigeons using the R programming language.
 
 You can read the full study [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/eva.12972).
 
