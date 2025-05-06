@@ -19,6 +19,7 @@ dexamethasone
 doi
 Drs
 dropdown
+docx
 eaam
 Epub
 eva
@@ -57,6 +58,7 @@ preprint
 programmatically
 reproducibility
 Rivkin
+Rmd
 rocpig
 RStudio
 SNPs
