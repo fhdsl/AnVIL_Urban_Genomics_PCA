@@ -1,0 +1,10 @@
+
+# References 
+
+Carlen, E, Munshi-South, J. Widespread genetic connectivity of feral pigeons across the Northeastern megacity. __Evol Appl.__ 2021; 14: 150– 162. [https://doi.org/10.1111/eva.12972]()
+
+Johnson MTJ, Munshi-South J. Evolution of life in urban environments. __Science__. 2017 Nov 3;358(6363):eaam8327. doi: 10.1126/science.aam8327. PMID: 29097520.
+
+Lowther, P. E. and R. F. Johnston (2020). Rock Pigeon (Columba livia), version 1.0. In Birds of the World (S. M. Billerman, Editor). Cornell Lab of Ornithology, Ithaca, NY, USA. [https://doi.org/10.2173/bow.rocpig.01]()
+
+Miles LS, Rivkin LR, Johnson MTJ, Munshi-South J, Verrelli BC. Gene flow and genetic drift in urban environments. __Mol Ecol.__ 2019 Sep;28(18):4138-4151. doi: 10.1111/mec.15221. Epub 2019 Sep 24. PMID: 31482608.
