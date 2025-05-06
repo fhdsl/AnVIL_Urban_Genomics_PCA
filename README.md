@@ -1,48 +1,43 @@
-<!--Delete this section below upon using the template-->
-
-## AnVIL Template
-
-Based on [_Open-source Tools for Training Resources (OTTR)_](https://github.com/jhudsl/OTTR_Template)
-
-The purpose of this template and is to make publishing maintenance for AnVIL content across multiple different platforms _less painful_.
-
-_This template helps you_:   
-
-- Edit and write an AnVIL course in [RMarkdown files](https://rmarkdown.rstudio.com/) and have it published to multiple different platforms:
-  - [Leanpub](https://leanpub.com/bookstore?type=course)
-  - [Bookdown](https://bookdown.org/)
-  - [Coursera](https://www.coursera.org/)
-- Have [Github action robots](https://github.com/jhudsl/OTTR_Template/wiki/How-to-set-up-and-customize-GitHub-actions-robots) do your repetitive tasks like spell check and re-rendering. 
-- Use [automagic conversion](https://github.com/jhudsl/ottrpal) to ease the lift of prepping the material for different platforms' formats.
-- Use [our Docker image](https://hub.docker.com/repository/docker/jhudsl/course_template) for consistency across authors as well as to help you [avoid dependency hell](https://en.wikipedia.org/wiki/Dependency_hell). 
-
-<img src="https://docs.google.com/presentation/d/18k_QN7l6zqZQXoiRfKWzcYFXNXJJEo6j4daYGoc3UcU/export/png?id=18k_QN7l6zqZQXoiRfKWzcYFXNXJJEo6j4daYGoc3UcU&pageid=gf4fcf6569c_2_29" width="500"/>
-
-## To Get Started
-- Go to the [OTTR Wiki page](https://github.com/jhudsl/OTTR_Template/wiki/Getting-started)
-- Please take a look at the [code of conduct](./code_of_conduct.md).
-- If you encounter any problems or have improvement ideas for this template repository, please [file an issue](https://github.com/jhudsl/AnVIL_bookdown_style/issues/new/choose)! Issues for the parent repository (the OTTR template repository) are also very much appreciated and can be submitted [here](https://github.com/jhudsl/OTTR_Template/issues/new/choose).
-
-<!--Delete everything above this line upon using the template-->
-
-# {Course Name}
+# AnVIL Urban Genomics: Identifying population structure among feral pigeon populations
 
 [![Render Bookdown and Coursera](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml/badge.svg)](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml)
 
 This course was created from [the AnVIL Template](https://github.com/jhudsl/AnVIL_bookdown_style), which is based on [the OTTR Template](https://github.com/jhudsl/OTTR_Template)
 
-You can see the rendered course material here: {Link to rendered bookdown and/or to the Leanpub. Will look something like: https://jhudatascience.org/{Course_Name}}
+You can see the rendered course material here: [https://hutchdatascience.org/AnVIL_Urban_Genomics_PCA/](https://hutchdatascience.org/AnVIL_Urban_Genomics_PCA/)
 
 ## About this course
 
-This course introduces {info on what this course introduces}
+This book is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). This course introduces genetics concepts like DNA variants and population level variation and dynamics. This course also has a module guiding students to work with SNP data from a subsample of 50 feral pigeons (collected in 6 different Northeastern US cities) that were captured and sampled in Carlen and Munshi-South’s study. Students will calculate PCA and create plots to visualize the population structure among these pigeons using the R programming language.
 
 ## Learning Objectives
 
-This course will teach learners to:  
+This activity addresses the following Core Concepts and Competencies as stated in the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/):
 
-- {You can use https://www.bobpikegroup.com/trainer-blog/5-steps-to-writing-clear-and-measurable-learning-objectives to define some learning objectives here}
-- {More learning objectives}
+- Core Competency: Critique large data sets and use bioinformatics to assess genetics data.
+- Core Competency: Generate and interpret graphs displaying experimental results.
+- Evolution and Population Genetics: Explain how natural selection and genetic drift can affect the elimination, maintenance or increase in frequency of various types of alleles (e.g. dominant, recessive, deleterious, beneficial) in a population.
+
+This activity also addresses the following core competency from the Bioinformatics core competencies for undergraduate life sciences education from [NIBLSE](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0196878.t002):
+
+- Use bioinformatics tools to examine complex biological problems in evolution, information flow, and other important areas of biology.
+- Use command-line bioinformatics tools and write simple computer scripts.
+
+This course's background lectures will teach learners to
+
+- Learn what genomics and genetics are.
+- Learn what variants, SNVs, and SNPs are.
+- Learn how variants can impact an organism’s phenotype.
+- Learn how DNA variants are stored in datafiles.
+- Learn what urbanization is and how it affects the abiotic and biotic environments.
+- Understand the difference between the urban facilitation and urban fragmentation hypothesis.
+- Learn what population structure, gene flow, and genetic drift are.
+- Understand how gene flow and genetic drift behave under the urban facilitation and urban fragmentation hypotheses.
+- Learn what principal component analysis is and why it is useful in bioinformatics.
+- Understand how PCs are calculated
+- Learn about the basic natural history of rock pigeons.
+- Understand the difference between wild, domesticated, and feral pigeons.
+- Understand why pigeons have been successful in the urban environment.
 
 ## Encountering problems?
 
